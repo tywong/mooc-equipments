@@ -41,7 +41,7 @@
 
   * [Camtasia](http://telestream.net/screenflow/overview.htm);
   * The recommended screencasting software for Mac;
-  * Cost: USD $99;
+  * Cost: USD $179 (Education pricing);
 
 ## Live Annoation Tool
   * [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/bb897434.aspx);
