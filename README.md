@@ -1,6 +1,6 @@
 # MacOS
 
-## Computer / Laptop;
+## Computer / Laptop
   * Any Macbook;
   * Cost: ~$10K;
 
@@ -24,7 +24,7 @@
   
 # Windows
   
-## Computer / Laptop;
+## Computer / Laptop
   * [Windows Surface Pro] (http://www.microsoftstore.com.hk/product/surfacepro3);
   * Highly recommended!
   * The stylus is super handy!
